@@ -4,3 +4,6 @@ Rencana pembelajaran faris
 2. belajar tailwind
 3. belajar github
 4. database
+
+tambahan=
+januari harus kelar
