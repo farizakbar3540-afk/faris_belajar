@@ -2,3 +2,5 @@ Faris Belajar
 - Tujuan utama yaitu untuk menyelesaikan project work
 - Belajar tailwind,php,github,dll
 GASS
+
+PANTEK
