@@ -1,6 +1,7 @@
 Rencana pembelajaran faris
 
 1. belajar php
+- ini tugas riki
 2. belajar tailwind
 - ini tugasnya mahes css tailwind
 3. belajar github
@@ -8,3 +9,5 @@ Rencana pembelajaran faris
 
 tambahan=
 januari harus kelar
+
+riki 
